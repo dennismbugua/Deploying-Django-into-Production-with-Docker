@@ -12,10 +12,6 @@ Welcome to codePulse, a state-of-the-art Django-based project tailored for build
 
 - **Containerization with Docker:** Utilize Docker to containerize your application, ensuring consistency and portability across different environments.
 
-- **Orchestration with Kubernetes:** Embrace Kubernetes for efficient orchestration and management of containerized applications, enabling scalability and resilience.
-
-- **GitHub Actions:** Leverage GitHub Actions for automated workflows, enhancing collaboration and streamlining development processes.
-
 ## Getting Started
 
 To get started with codePulse, follow these simple steps:
