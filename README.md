@@ -41,18 +41,6 @@ To get started with codePulse, follow these simple steps:
    python manage.py runserver
    ```
 
-6. Explore the codePulse documentation for in-depth guides on deployment, customization, and more.
-
-## Contribution Guidelines
-
-Contributions are welcome! Follow these guidelines to contribute to codePulse:
-
-- Fork the repository
-- Create a new branch: `git checkout -b feature/your-feature`
-- Commit your changes: `git commit -m 'Add some feature'`
-- Push to the branch: `git push origin feature/your-feature`
-- Submit a pull request
-
 ## License
 
 This project is licensed under the MIT License 
