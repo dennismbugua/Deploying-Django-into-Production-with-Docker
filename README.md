@@ -1,7 +1,3 @@
-# Deploying-Django-into-Production-with-K8-Docker-and-GitHub-Actions
-Deploying Django into Production with Digital Ocean
-
-
 ## Overview
 
 Welcome to codePulse, a state-of-the-art Django-based project tailored for building robust and scalable applications. As a seasoned lead software engineer, I've meticulously crafted this project with a focus on optimizing workflows and ensuring seamless deployment for production-ready applications.
